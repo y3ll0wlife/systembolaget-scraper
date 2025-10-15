@@ -1,0 +1,4 @@
+/target
+.env
+systembolaget.db
+systembolaget.db-*
